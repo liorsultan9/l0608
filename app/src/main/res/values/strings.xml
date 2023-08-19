@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">l0608</string>
+    <string name="default_web_client_id">971456660286-2r45o915rd355sjipfp57letmn9t5asb.apps.googleusercontent.com</string>
+    <string name="welcome_message">Welcome, %s</string> <!-- Added this line -->
+    <string name="permission_denied">Location permission denied</string>
+</resources>
